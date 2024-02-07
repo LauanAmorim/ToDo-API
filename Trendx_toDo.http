@@ -1,0 +1,6 @@
+@Trendx_toDo_HostAddress = http://localhost:5186
+
+GET {{Trendx_toDo_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
