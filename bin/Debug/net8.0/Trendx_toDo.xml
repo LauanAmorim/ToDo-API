@@ -32,17 +32,5 @@
             <param name="id">ID da tarefa a ser deletada</param>
             <returns>Retorna Ok se a tarefa for deletada; Se não, retorna NotFound</returns>
         </member>
-        <member name="T:Trendx_toDo.Migrations.InitialCreate">
-            <inheritdoc />
-        </member>
-        <member name="M:Trendx_toDo.Migrations.InitialCreate.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
-            <inheritdoc />
-        </member>
-        <member name="M:Trendx_toDo.Migrations.InitialCreate.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
-            <inheritdoc />
-        </member>
-        <member name="M:Trendx_toDo.Migrations.InitialCreate.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
-            <inheritdoc />
-        </member>
     </members>
 </doc>

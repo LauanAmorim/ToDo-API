@@ -58,7 +58,7 @@ namespace Trendx_toDo.Controllers
         /// <summary>
         /// Atualizar uma tarefa.
         /// </summary>
-        /// <param name="model">The updated task details.</param>
+        /// <param name="model">Informações a serem atuailizadas</param>
         /// <param name="id">ID da tarefa a ser atualizada.</param>
         /// <returns>Retorna Ok se a tarefa for atualizada; Se não, retorna NotFound.</returns>
         [HttpPut("tasks/{id}")]
