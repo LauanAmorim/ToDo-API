@@ -15,15 +15,19 @@ Aqui estão as instruções para instalação e execução desse projeto
    ```
    <br/>
    
-3. Na raiz do projeto, crie a Primeira Migration
+2. Na raiz do projeto, crie a Primeira Migration
   ```sh
   dotnet ef migrations add InitialMigration
   ```
 <br/>
 
-4. Na raiz do projeto, crie o banco
+3. Na raiz do projeto, crie o banco
    ```sh
    dotnet ef database update
+   ```
+4. Execute o projeto
+   ```sh
+   dotnet watch run
    ```
 <br/>
 <p align="right">(<a href="#readme-top">DE volta ao topo</a>)</p>
