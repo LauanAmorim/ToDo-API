@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hGq5uA9KRu0+M57QRC/eSh6A9Ac4E7OJ/GkI4SBApUfVjQ7Oz8iPTaNsJ2JfTv7f1g4aNtTtuK65oXXvIritpw==",
+  "dgSpecHash": "tZO/F9w7jqLNXSDkvKOlIX3pUhSVeWZV5LTajUoDB7oMfntLpR8BqVBC+VCygICiiU+GK7QpySxn0SYFh6lclw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\lauan\\OneDrive\\Área de Trabalho\\dev\\trendx_ToDo\\Trendx_toDo.csproj",
+  "projectFilePath": "C:\\Users\\lauan\\OneDrive\\Área de Trabalho\\ToDo-API\\Trendx_toDo.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lauan\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\lauan\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",

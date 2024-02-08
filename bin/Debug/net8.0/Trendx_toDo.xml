@@ -1,0 +1,48 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Trendx_toDo</name>
+    </assembly>
+    <members>
+        <member name="M:Trendx_toDo.Controllers.TodoController.Post(Trendx_toDo.ViewModels.CreateTaskViewModel)">
+            <summary>
+            Criar uma nova tarefa.
+            </summary>
+            <param name="model">Detalhes da tarefa.</param>
+            <returns>Retorna a nova tarefa criada.</returns>
+        </member>
+        <member name="M:Trendx_toDo.Controllers.TodoController.Get">
+            <summary>
+            Obter a lista de todas as tarefas.
+            </summary>
+            <returns>Retorna uma lista de todas as tarefas</returns>
+        </member>
+        <member name="M:Trendx_toDo.Controllers.TodoController.Put(Trendx_toDo.ViewModels.EditTaskViewModel,System.Int32)">
+            <summary>
+            Atualizar uma tarefa.
+            </summary>
+            <param name="model">The updated task details.</param>
+            <param name="id">ID da tarefa a ser atualizada.</param>
+            <returns>Retorna Ok se a tarefa for atualizada; Se não, retorna NotFound.</returns>
+        </member>
+        <member name="M:Trendx_toDo.Controllers.TodoController.Delete(System.Int32)">
+            <summary>
+            Deletar uma tarefa.
+            </summary>
+            <param name="id">ID da tarefa a ser deletada</param>
+            <returns>Retorna Ok se a tarefa for deletada; Se não, retorna NotFound</returns>
+        </member>
+        <member name="T:Trendx_toDo.Migrations.InitialCreate">
+            <inheritdoc />
+        </member>
+        <member name="M:Trendx_toDo.Migrations.InitialCreate.Up(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:Trendx_toDo.Migrations.InitialCreate.Down(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)">
+            <inheritdoc />
+        </member>
+        <member name="M:Trendx_toDo.Migrations.InitialCreate.BuildTargetModel(Microsoft.EntityFrameworkCore.ModelBuilder)">
+            <inheritdoc />
+        </member>
+    </members>
+</doc>

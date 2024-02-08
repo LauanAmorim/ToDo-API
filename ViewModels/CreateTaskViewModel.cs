@@ -1,4 +1,5 @@
-﻿using System.ComponentModel.DataAnnotations;
+﻿using System.ComponentModel;
+using System.ComponentModel.DataAnnotations;
 
 namespace Trendx_toDo.ViewModels
 {
@@ -7,5 +8,7 @@ namespace Trendx_toDo.ViewModels
         [Required]
         public string Title { get; set; }
         public string Description { get; set; }
+        [DefaultValue(false)]
+        public bool Completed { get; set; }
     }
 }

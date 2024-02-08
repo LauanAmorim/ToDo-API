@@ -20,7 +20,7 @@ namespace Trendx_toDo.Repositories
             {
                 Title = model.Title,
                 Description = model.Description,
-                Completed = false
+                Completed = model.Completed
             };
 
             await _context.Tasks.AddAsync(task);

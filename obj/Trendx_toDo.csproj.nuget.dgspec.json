@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lauan\\OneDrive\\Área de Trabalho\\dev\\trendx_ToDo\\Trendx_toDo.csproj": {}
+    "C:\\Users\\lauan\\OneDrive\\Área de Trabalho\\ToDo-API\\Trendx_toDo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lauan\\OneDrive\\Área de Trabalho\\dev\\trendx_ToDo\\Trendx_toDo.csproj": {
+    "C:\\Users\\lauan\\OneDrive\\Área de Trabalho\\ToDo-API\\Trendx_toDo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lauan\\OneDrive\\Área de Trabalho\\dev\\trendx_ToDo\\Trendx_toDo.csproj",
+        "projectUniqueName": "C:\\Users\\lauan\\OneDrive\\Área de Trabalho\\ToDo-API\\Trendx_toDo.csproj",
         "projectName": "Trendx_toDo",
-        "projectPath": "C:\\Users\\lauan\\OneDrive\\Área de Trabalho\\dev\\trendx_ToDo\\Trendx_toDo.csproj",
+        "projectPath": "C:\\Users\\lauan\\OneDrive\\Área de Trabalho\\ToDo-API\\Trendx_toDo.csproj",
         "packagesPath": "C:\\Users\\lauan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lauan\\OneDrive\\Área de Trabalho\\dev\\trendx_ToDo\\obj\\",
+        "outputPath": "C:\\Users\\lauan\\OneDrive\\Área de Trabalho\\ToDo-API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
